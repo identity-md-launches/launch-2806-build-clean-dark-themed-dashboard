@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+<rect width="1200" height="630" fill="#101211"/>
+<path d="M0 561H1200M814 0V630" stroke="#2b322d"/>
+<g font-family="Arial, sans-serif">
+<text x="72" y="105" font-size="24" fill="#afb8b1">The community network dashboard</text>
+<text x="68" y="254" font-size="78" letter-spacing="-4" font-weight="600" fill="#edf2ee">Squeekchain<tspan fill="#b8ee83">.</tspan></text>
+<text x="72" y="322" font-size="29" fill="#afb8b1">Real-world work. Recorded onchain.</text>
+<g fill="#939e96" font-size="21"><text x="72" y="493">Blocks</text><text x="178" y="493">·</text><text x="206" y="493">Work</text><text x="298" y="493">·</text><text x="326" y="493">SQK supply</text><text x="480" y="493">·</text><text x="508" y="493">Settlements</text></g>
+<text x="72" y="603" font-size="19" fill="#939e96">Independent. Open data. Always in motion.</text>
+</g>
+<g transform="translate(852 157) scale(7)" fill="none" stroke="#b8ee83" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round">
+<path d="M32.7 27.2A15 15 0 1 0 20 35"/><path d="M28 23.8a9 9 0 1 0-8 5.2"/><path d="m16 17 5.7-4.3 5 4.1-3.2 7.8h-6l3-5.2M26.6 17h5.1m-7.4-3.7 1-3"/><circle cx="28.3" cy="30.7" r="2.2" fill="#b8ee83" stroke="none"/>
+</g>
+</svg>
